@@ -71,7 +71,7 @@ div#description {
     word-break: normal;
     text-overflow: ellipsis;
     overflow: hidden !important;
-    max-height: 500px;
+    max-height: 700px;
 }
 
 div#container {
